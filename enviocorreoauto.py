@@ -9,15 +9,24 @@ sender_email = "ossmanmejia@gmail.com"   # Cambia por tu correo de Gmail
 password = "lkxl fzkn eowg ymyy"
 
 # Edita el asunto y el cuerpo del correo
-subject = "Asignación de Evaluación"
+subject = "Otro ensayo - Experiencias para valorar - DL Latam 2025"
 body = """\
-Esto es solo un ensayo jajaja
-Estimado evaluador,
+Bonito día, estimad@ evaluador/@.
 
-Adjunto encontrarás el archivo con las propuestas asignadas para evaluación.
+Esperamos que este correo te encuentre en bienestar.
 
-Saludos cordiales,
-El Comité Organizador
+En este correo, te adjuntamos el archivo con las experiencias que vas a valorar. 
+
+Vas a encontrar un excel con la información general de la postulación y, además, un enlace para conocer el documento con la planeación de la sesión. Recuerda revisarlo a detalle, pues es allí donde vas a comprender de qué se trata realmente la propuesta.
+
+Además, te pedimos que revises bien las dos pestañas inferiores, allí puedes encontrar las Inmersiones y los Talleres que vas a evaluar
+
+No dudes en preguntarnos cualquier duda que tengas sobre el proceso o sobre las experiencias que vas a evaluar. Puedes escribirnos a este correo o al WhatsApp de Cristina: (57)3174319882.
+
+Nos entusiasma contar contigo. 
+
+Con agradecimiento,
+Equipo de aprendizaje - DL Latam 2025
 """
 
 # Cargar la hoja Evaluadores del archivo Excel
